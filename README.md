@@ -3,7 +3,7 @@
 
 
 ### :green_book: Description
-This repository shows a linear regression analysis on DC bike data to understand the demand for bicycle rentals over time and fit a regression line and forecast.
+This repository shows an explanatory data analysis to understand the demand for bicycle rentals over time and use a linear regression analysis to forecast seasonal demand.
 
 
 ---
