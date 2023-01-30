@@ -7,7 +7,7 @@ This repository shows an explanatory data analysis to understand the demand for 
 
 
 ---
-### :computer: Tools
+### :computer: Tech Stack
 `Python` `Pandas` `NumPy` `scikit-learn` `Matplotlib` `Seaborn`
 
 
